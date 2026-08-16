@@ -1,0 +1,30 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Saídas geradas pelo pipeline (dados de leads não devem ir para o repo)
+output/*.csv
+logs/*.log
+
+# Mantém as pastas no git mesmo com os arquivos ignorados
+!output/.gitkeep
+!logs/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Testes / cobertura
+.coverage
+htmlcov/
+.pytest_cache/
