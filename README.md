@@ -238,7 +238,7 @@ CSV (`output/leads_aquarius_20260813_210500.csv`):
 
 ## 🎯 ICP (Ideal Customer Profile)
 
-A curadoria de nichos em `config/settings.py` não é arbitrária — reflete o perfil de cliente que historicamente fecha contrato, com base nos cases reais do portfólio da SciTec Jr. (Miah Moda, Ustyle, Sansomed):
+A curadoria de nichos em `config/settings.py` não é arbitrária — reflete o perfil de cliente que historicamente fecha contrato, com base nos cases reais do portfólio da SciTec Jr.:
 
 | Prioridade | Perfil | Por quê | Nichos |
 |---|---|---|---|
